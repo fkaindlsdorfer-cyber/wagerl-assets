@@ -1,0 +1,1 @@
+# wagerl-assets
